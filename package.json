@@ -104,6 +104,7 @@
     "webpack-dev-server": "^3.1.8"
   },
   "dependencies": {
+    "@babel/runtime": "^7.0.0",
     "classnames": "^2.2.6",
     "date-arithmetic": "^3.0.0",
     "dom-helpers": "^2.3.0 || ^3.0.0",
